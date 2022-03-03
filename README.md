@@ -31,5 +31,4 @@
   <a href="https://www.linkedin.com/in/andrew-jonasson-mousquer-1a98b8154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     ![Snake animation](https://github.com/andrewjmousquer/andrewjmousquer/blob/output/github-contribution-grid-snake.svg) 
- 
-</div>
+ </div>
