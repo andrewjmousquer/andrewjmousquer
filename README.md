@@ -1,7 +1,7 @@
 ### Oi eu sou Andrew J Mousquer 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Atualmente estudando Javascript
+- 🌱 Atualmente estudando Javascript/Typescript
 
 <div align="center">
   <a href="https://github.com/andrewjmousquer">
