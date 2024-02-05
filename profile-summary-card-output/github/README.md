@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/andrewjmousquer/andrewjmousquer/main/profile-summary-card-output/github/4-productive-time.svg)
+```
+
+    
