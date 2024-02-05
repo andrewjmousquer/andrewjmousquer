@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/andrewjmousquer/andrewjmousquer/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
-```
-
-    
