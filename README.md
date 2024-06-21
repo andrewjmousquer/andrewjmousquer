@@ -1,7 +1,7 @@
 ### Oi eu sou Andrew J Mousquer 👋
 
 - 🔭 Hoje trabalho como Desenvolvedor
-- 🌱 Atualmente estudando Javascript/Typescript/JAVA
+- 🌱 Atualmente estudando Javascript/Typescript
 
 <div align="center">
   <a href="https://github.com/andrewjmousquer">
